@@ -9,6 +9,8 @@ body {
     box-sizing: border-box;
     background-color: rgb(50, 119, 248);
     display: flex;
+    background-image:url("Images/crep-4.jpg");
+    background-size: cover;
 }
 .board{
     height: 480px;
