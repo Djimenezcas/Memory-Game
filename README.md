@@ -1,7 +1,5 @@
 # Memory-Game
-This is a memory game, created using HTML, CSS, and JavaScript.
-Rules of playing are:- 
- 1. Click on any two card and they will flip,
- 2. if they are of same kind then they will stay fliped otherwise they will fliped again.
- 3. Game will finish when you will have unfliped all the cards.
- 4. For Hard level only game will finsih either if you unfliped all cards or you ran out of given moves.
+Este es un juego en el cual consiste en ejercitar tu memoria
+tienes que elegir una ficha en la cual sale una imagen para posterior mente elegir otra
+en caso de que coincidan se quedaran descubiertas ambas fichas hasta que se encuentre la pareja de todas 
+La tematica esta inspirada en los "creepypasta" que son historias de terror
